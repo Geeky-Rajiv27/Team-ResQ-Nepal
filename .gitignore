@@ -1,1 +1,5 @@
+#1)NOTE : preventing .env file from being pushed
 .env
+
+#2)NOTE : preventing environment file form being pushed
+/RESQ

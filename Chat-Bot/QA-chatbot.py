@@ -6,7 +6,7 @@ load_dotenv()
 import streamlit as st
 from google import genai    #importing genai from google this is built in 
 
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY")) #retriving api key 
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY")) #retriving api key from .env file
 
 def get_gemini_response(question):
     response = client.models.generate_content(
