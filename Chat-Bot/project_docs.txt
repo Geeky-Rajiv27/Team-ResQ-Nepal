@@ -1,0 +1,102 @@
+Project Name: Samajik Sanjaal
+
+Description:
+Samajik Sanjaal is a social media platform designed for local communities in Nepal.
+
+Main Features:
+- User registration and login
+- Create posts with text and images
+- Like, comment, and share posts
+- Real-time notifications
+- Profile customization
+
+
+Q: What is this platform?
+A: This platform is a location-based emergency response system designed for Nepal. It
+helps citizens connect instantly with the nearest police station during emergencies using
+real-time location detection.
+
+Q: How does the emergency system work?
+A: When you press the emergency button, the system captures your GPS location,
+identifies the nearest police station, and sends your emergency request directly to that
+station along with live location updates.
+
+Q: Do I need to manually select a police station?
+A: No. The system automatically finds and contacts the nearest police station based on
+your real-time location.
+
+Q: How does the system find the nearest police station?
+A: The system uses geographic distance calculations based on latitude and longitude to
+identify the closest police station to your current location.
+
+Q: Is my location shared with the police?
+A: Yes. During an active emergency, your live location is securely shared with the
+assigned police unit so they can reach you quickly.
+
+Q: Can the police track my movement in real time?
+A: Yes. Live location updates allow the police to track your movement until the emergency
+is resolved.
+
+Q: Is my personal data safe?
+A: Yes. All sensitive data is protected using secure authentication methods and is shared
+only during emergencies.
+
+Q: What happens after I press the emergency button?
+A: Your emergency request is created, assigned to the nearest police station, and the
+police receive an instant alert with your live location.
+
+Q: Can I cancel an emergency request?
+A: Yes. If the situation is resolved, you can cancel the request or mark it as resolved
+through the platform.
+
+Q: Does this system replace emergency phone numbers?
+A: No. This system supports emergency services by reducing response time. It does not
+replace official emergency phone numbers.
+
+Q: What if my internet connection is weak?
+A: A stable internet connection is recommended. In future versions, offline and
+SMS-based fallbacks can be added.
+
+Q: Is this platform officially connected to Nepal Police?
+A: This is a hackathon prototype designed to demonstrate how emergency response can
+be improved. Official integration would require government collaboration.
+
+Q: Can this system be used for ambulances or fire services?
+A: Yes. The system is designed to be scalable and can be extended to ambulances and
+fire services in the future.
+
+Q: Is the service free to use?
+A: Yes. The goal of the platform is public safety and accessibility.
+
+Q: Can I use this system from anywhere in Nepal?
+A: Yes. As long as your location is detectable and police station data is available, the
+system works nationwide.
+
+Q: Do I need to create an account to use emergency services?
+A: Basic information may be required for identification, but the system is designed to be
+fast and simple during emergencies.
+
+Q: What information is sent to the police?
+A: Only essential details such as your location, emergency status, and basic identification
+are shared.
+
+Q: Can I see the police location as well?
+A: Yes. In supported views, you can see the responding police unit moving towards your
+location.
+
+Q: What should I do if the system fails?
+A: If the system is unavailable, immediately use traditional emergency phone numbers.
+
+Q: Is this an AI-based emergency responder?
+A: No. The AI assistant only guides users and explains features. All real emergency
+actions are handled by police authorities.
+
+Rules:
+- The assistant must answer ONLY using this document.
+- If the answer is not present, say:
+  "Sorry, this information is not available in the app documentation."
+
+
+
+
+
